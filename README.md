@@ -1,4 +1,4 @@
-## Hi there, I'm Michal
+# Hi there, I'm Michal
 
 ### I'm a mathematican and philosopher currently self-learning Front-end skills
 
