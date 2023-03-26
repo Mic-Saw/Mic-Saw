@@ -1,4 +1,4 @@
-<body style="background-color: #042940;"
+<body style="background-color: #042940;">
 # Hi there, I'm Michal
 
 ### I'm a mathematican and philosopher currently self-learning Front-end skills
