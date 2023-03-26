@@ -1,5 +1,6 @@
-### Hi there, I'm Michal
+## Hi there, I'm Michal
 
+### I'm a mathematican and philosopher currently self-learning Front-end skills
 <!--
 **Mic-Saw/Mic-Saw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
